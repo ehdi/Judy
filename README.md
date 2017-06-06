@@ -1,6 +1,7 @@
 # Judy
 
-Judy is an Asterisk client service that send request to Asterisk service
+The Asterisk Manager Spring API enables a developer to control their Asterisk PBX system.  Allowing for call origination, monitoring, queue management, etc.
+
 
 ## Development
 
